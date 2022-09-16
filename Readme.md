@@ -10,6 +10,8 @@ To run this project below are required
     
 - Python - 3.8 
 - Pandas
+- bs4
+- requests
 
 ## Future Development
 - Handle Diffrent Exceptions
